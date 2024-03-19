@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mailson</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisismailson&label=Profile%20views&color=0e75b6&style=flat" alt="thisismailson" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisismailson" alt="thisismailson" /></a> </p>
-
-- 🔭 I’m currently working on **explaining how certain commodities affect the S&P500's performance**
-
-- 🌱 I’m currently learning **Data science**
-
-- 💬 Ask me about **react, js, AI, XAI(i'll gladly do research if i don't know the answer)**
-
-- 📫 You can reach out to me @ **mailsonteixeiravarela@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/thisismailson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thisismailson" height="30" width="40" /></a>
