@@ -8,4 +8,4 @@
 <a href="https://www.hackerrank.com/mailson_varela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mailson_varela" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismailson&show_icons=true&locale=en&layout=compact" alt="thisismailson" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismailson&show_icons=true&locale=en&layout=compact" alt="thisismailson" /></p>
